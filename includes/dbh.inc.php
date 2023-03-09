@@ -2,10 +2,10 @@
 
 // Credentials
 
-$dbServername = "dreadnought.aserv.co.za";
-$dbUsername = "lambdijo_lambda";
-$dbPassword = "12113sAs12Ww*#";
-$dbName = "lambdijo_post390";
+$dbServername = "";
+$dbUsername = "";
+$dbPassword = "";
+$dbName = "";
 
 // Connection Established
 
